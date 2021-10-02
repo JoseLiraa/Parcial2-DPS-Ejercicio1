@@ -1,5 +1,5 @@
 # Parcial2-DPS-Ejercicio1
-servicios-streaming-ejercicio1dps-parcial2, uso de YoutubePlayer, NavigationContainer, createBottomTabNavigator, Modal, TouchableHighlight
+Servicios streaming ejercicio1dps parcial 2, uso de YoutubePlayer, NavigationContainer, createBottomTabNavigator, Modal, TouchableHighlight
 
 ## Dependencias necesarias para correr el ejercicio ✒️
 
