@@ -1,0 +1,13 @@
+expo-video-player:
+-npm install expo-video-player
+-npm install expo-av @react-native-community/slider
+
+
+
+-npm install --save react-native-video react-native-video-controls
+-react-native link react-native-video
+
+
+este si
+-npm install react-native-webview
+-npm install react-native-youtube-iframe
