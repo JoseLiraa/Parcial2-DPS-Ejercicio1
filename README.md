@@ -3,5 +3,5 @@ servicios-streaming-ejercicio1dps-parcial2, uso de YoutubePlayer, NavigationCont
 
 ## Dependencias necesarias para correr el ejercicio ✒️
 
-*npm install react-native-webview
-*npm install react-native-youtube-iframe
+* npm install react-native-webview
+* npm install react-native-youtube-iframe
